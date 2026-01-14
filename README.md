@@ -1,2 +1,5 @@
-# random-fact-2026-01-14T06-22-25.285Z-853random-fact-2026-01-14T06-22-25.285Z-853
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+The fur of the binturong, also known as the "Asian Bear Cat," smells like popcorn. The scent is believed to come from a gland located near the tail
+
+*Generated on 2026-01-14T06:22:26.904Z*
